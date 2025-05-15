@@ -16,7 +16,7 @@ EXCLUDE_DIRS = {
 }
 
 headers = {
-    "Authorization": "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"
+    "Authorization": ""
 }
 
 
